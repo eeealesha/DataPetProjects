@@ -2,7 +2,8 @@
 
 # задаем параметры функции 
 
-```countries = ["USA", "GBR"]
+```
+countries = ["USA", "GBR"]
 indicators = ["SP.POP.TOTL", "NY.GDP.MKTP.CD"]
 start_date = "2015"
 end_date = "2020"
@@ -10,7 +11,8 @@ end_date = "2020"
 data = request_world_bank_data(countries, indicators, start_date, end_date)
 
 df = create_df(data)
-df```
+df
+```
 
 ![Alt text](result.png?raw=true "Optional Title")
 
