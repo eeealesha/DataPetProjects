@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "eeealesha",
+      "name": "Alexey Gavrilov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54736886?v=4",
+      "profile": "https://t.me/onlyanalystgroup",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "data_analyst_pet_project_templates",
+  "projectOwner": "eeealesha"
+}
